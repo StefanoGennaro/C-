@@ -1,0 +1,14 @@
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\bin\Debug\net8.0\AulaSomaVariaveis.exe
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\bin\Debug\net8.0\AulaSomaVariaveis.deps.json
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\bin\Debug\net8.0\AulaSomaVariaveis.runtimeconfig.json
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\bin\Debug\net8.0\AulaSomaVariaveis.dll
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\bin\Debug\net8.0\AulaSomaVariaveis.pdb
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\AulaSomaVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\AulaSomaVariaveis.AssemblyInfoInputs.cache
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\AulaSomaVariaveis.AssemblyInfo.cs
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\AulaSomaVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\AulaSomaVariaveis.dll
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\refint\AulaSomaVariaveis.dll
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\AulaSomaVariaveis.pdb
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\AulaSomaVariaveis.genruntimeconfig.cache
+C:\Users\Stefano Gennaro\Desktop\Aulas Faculdade\Aula_1_ATP\AulaSomaVariaveis\AulaSomaVariaveis\obj\Debug\net8.0\ref\AulaSomaVariaveis.dll
